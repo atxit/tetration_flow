@@ -1,4 +1,4 @@
-Propose: Takes an .json file generated from Tetration (created from ADM, filtering on a target IP) and presents the file information in more readable format (excel). Tetration generated a JSON file which displayed data flows communicating with IP address 172.17.69.34 (target_svr.lab.local). In this scenario, 172.17.69.34 (target_svr.lab.local) has been identified as a potential candidate for cloud migration. 
+Propose: Takes an .json file generated from Tetration (created from ADM, filtering on a target IP) and presents the file information in more readable format (excel). Tetration was responsible for generating the original request, the output format is JSON file which displays data flows communicating with the target IP address of 172.17.69.34 (target_svr.lab.local). In this scenario, 172.17.69.34 (target_svr.lab.local) has been identified as a potential candidate for cloud migration. 
 
     Because of this, we need to understand:
 
