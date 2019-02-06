@@ -20,7 +20,7 @@ Propose: Takes an .json file generated from Tetration (created from ADM, filteri
 
 #Libraries and Modules
 
-    Pandas, getpass, openpyxl, xlwt, socket, re, glob, os, sys
+    Pandas, openpyxl, xlwt, socket, re, glob, os, sys
 
 
 #System Arguments
